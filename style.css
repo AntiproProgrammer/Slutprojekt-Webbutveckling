@@ -53,7 +53,7 @@
 /* Hero */
 .Hero {
     height: 600px;
-    background-image: url("scenery-hero.jpg"); 
+    background-image: url("images/scenery-hero.jpg"); 
     background-size: cover;
     background-position: center;
     display: flex;
