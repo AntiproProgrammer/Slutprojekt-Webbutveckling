@@ -150,7 +150,31 @@
     color: #343434;
 }
 
+/* Footer */
 .footer {
-    height: 250px;
-    background-color: #107474;
+    background-color: #011b2b;
+    color: #ffffff;
+    padding: 30px 20px;
+}
+
+.footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.footer h3,
+.footer h4 {
+    margin: 20px 0 10px;
+}
+
+.footer p {
+    margin: 5px 0;
+    color: #d9e8f7;
+}
+
+.footer-note {
+    margin-top: 20px;
+    text-align: center;
+    color: #9bb7ce;
+    font-size: 13px;
 }
