@@ -261,3 +261,36 @@
     padding-top: 20px;
 }
 
+.contact-section {
+    padding: 60px 40px;
+    max-width: 1000px;
+    margin: 110px auto;
+}
+
+.contact-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 30px 0;
+}
+
+.contact-table th,
+.contact-table td {
+    padding: 14px;
+    border: 1px solid #ccc;
+    text-align: left;
+}
+
+.contact-table thead tr {
+    background-color: #034262;
+    color: white;
+}
+
+.contact-table tbody tr.row1 { background-color: #f0f8ff; }
+.contact-table tbody tr.row2 { background-color: #e6ffe6; }
+.contact-table tbody tr.row3 { background-color: #b9a79b; }
+
+.contact-table tfoot .last-row {
+    background-color: #011b2b;
+    color: #d5ff6b;
+
+}
